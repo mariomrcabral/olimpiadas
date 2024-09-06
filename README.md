@@ -1,4 +1,4 @@
-## **Aplicativo de Pesquisa de Atletas, projeto desenvolvido na IMERSão-DEV - ALURA - GOOGLE-GEMINI**
+## **Aplicativo de Pesquisa de Atletas, projeto desenvolvido na IMERSÃO-DEV - ALURA - GOOGLE-GEMINI**
 
 ### **Descrição**
 Este aplicativo web simples permite aos usuários pesquisar por atletas brasileiros. Ao digitar o nome de um atleta ou esporte no campo de pesquisa, a aplicação retorna uma lista de resultados relevantes, exibindo informações como nome, descrição e um link para mais detalhes, a pesquisa também possui algumas tags que poderão trazer resultados relativos as mesmas.
@@ -33,6 +33,6 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 4. Envie um pull request.
 
 ### **Autor**
-* **Seu Nome:** Mário Machado Rodrigues Cabral [Seu link para o GitHub]
+* **Seu Nome:** Mário Machado Rodrigues Cabral https://github.com/mariomrcabral
 
 
