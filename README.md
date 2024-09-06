@@ -1,7 +1,7 @@
-## **Aplicativo de Pesquisa de Atletas**
+## **Aplicativo de Pesquisa de Atletas, projeto desenvolvido na IMERSão-DEV - ALURA - GOOGLE-GEMINI**
 
 ### **Descrição**
-Este aplicativo web simples permite aos usuários pesquisar por atletas brasileiros. Ao digitar o nome de um atleta ou esporte no campo de pesquisa, a aplicação retorna uma lista de resultados relevantes, exibindo informações como nome, descrição e um link para mais detalhes.
+Este aplicativo web simples permite aos usuários pesquisar por atletas brasileiros. Ao digitar o nome de um atleta ou esporte no campo de pesquisa, a aplicação retorna uma lista de resultados relevantes, exibindo informações como nome, descrição e um link para mais detalhes, a pesquisa também possui algumas tags que poderão trazer resultados relativos as mesmas.
 
 ### **Funcionalidades**
 * **Pesquisa por nome ou esporte:** O usuário pode digitar qualquer termo relacionado a um atleta ou esporte para realizar a busca.
@@ -33,7 +33,6 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 4. Envie um pull request.
 
 ### **Autor**
-* **Seu Nome:** [Seu link para o GitHub]
+* **Seu Nome:** Mário Machado Rodrigues Cabral [Seu link para o GitHub]
 
-### **Licença**
-Este projeto está licenciado sob a licença [Nome da Licença] - consulte o arquivo LICENSE para obter mais detalhes.
+
